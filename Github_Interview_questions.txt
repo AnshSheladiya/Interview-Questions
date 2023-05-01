@@ -1,0 +1,435 @@
+Certainly, here are 100 more GitHub-related questions:
+
+1. What is Git and what is GitHub?
+2. How do you create a new repository on GitHub?
+3. What is a Git branch?
+4. How do you create a new branch in Git?
+5. How do you merge a branch in Git?
+6. What is a Git pull request?
+7. How do you create a pull request on GitHub?
+8. How do you accept a pull request on GitHub?
+9. What is a Git commit?
+10. How do you create a commit in Git?
+11. What is a Git tag?
+12. How do you create a tag in Git?
+13. What is Git rebase?
+14. How do you use Git rebase to merge branches?
+15. What is a Git merge conflict?
+16. How do you resolve a Git merge conflict?
+17. What is Git stash?
+18. How do you use Git stash to save changes?
+19. What is Git cherry-pick?
+20. How do you use Git cherry-pick to apply a commit from one branch to another?
+21. What is Git blame?
+22. How do you use Git blame to view changes made to a file?
+23. What is Git reset?
+24. How do you use Git reset to undo changes?
+25. What is Git reflog?
+26. How do you use Git reflog to view a history of Git commands?
+27. What is GitHub Actions?
+28. How do you create a GitHub Action workflow?
+29. What is GitHub Pages?
+30. How do you deploy a website using GitHub Pages?
+31. What is Gitignore?
+32. How do you create a Gitignore file?
+33. What is Git LFS?
+34. How do you use Git LFS to store large files?
+35. What is a Git submodule?
+36. How do you add a Git submodule to a repository?
+37. What is a GitHub repository template?
+38. How do you create a GitHub repository template?
+39. What is a GitHub organization?
+40. How do you create a GitHub organization?
+41. What is a GitHub webhook?
+42. How do you create a GitHub webhook?
+43. What is a GitHub issue?
+44. How do you create a GitHub issue?
+45. What is a GitHub pull request review?
+46. How do you request a GitHub pull request review?
+47. What is a GitHub project board?
+48. How do you create a GitHub project board?
+49. What is a GitHub release?
+50. How do you create a GitHub release?
+51. What is GitHub CLI?
+52. How do you use GitHub CLI to interact with GitHub from the command line?
+53. What is GitKraken?
+54. How do you use GitKraken to manage Git repositories?
+55. What is SourceTree?
+56. How do you use SourceTree to manage Git repositories?
+57. What is GitLab?
+58. How is GitLab different from GitHub?
+59. What is Bitbucket?
+60. How is Bitbucket different from GitHub?
+61. What is GitHub Enterprise?
+62. How is GitHub Enterprise different from GitHub?
+63. What is a GitHub Gist?
+64. How do you create a GitHub Gist?
+65. What is a GitHub organization team?
+66. How do you create a GitHub organization team?
+67. What is a GitHub repository fork?
+68. How do you fork a GitHub repository?
+69. What is GitHub Archive?
+70. How do you access the GitHub Archive?
+71. What is a GitHub Marketplace?
+72. How do you use GitHub Marketplace?
+73. What is GitHub Sponsors?
+74. How do you use GitHub Sponsors?
+75. What is a GitHub App?
+76. What is the difference between git and GitHub?
+77. How do you clone a repository from GitHub using the command line?
+78. How do you create a new branch in a Git repository on GitHub?
+79. What is a pull request in GitHub and how does it work?
+80. How do you merge a pull request on GitHub?
+81. Can you have multiple remotes in a Git repository? If so, how do you add them?
+82. What is a .gitignore file and what is its purpose?
+83. How do you revert a commit in Git?
+84. What is a git submodule and how does it work?
+85. How do you rename a Git branch?
+86. How do you undo a Git merge?
+87. What is a Git tag and how does it work?
+88. How do you list all the files that have been changed in a Git commit?
+89. How do you undo the last commit in Git?
+90. What is Git rebase and how does it work?
+91. How do you remove a file from a Git repository?
+92. How do you push a Git tag to GitHub?
+93. What is a Git stash and how does it work?
+94. How do you squash multiple Git commits into one?
+95. How do you revert a Git push?
+96. What is a Git hook and how does it work?
+97. How do you create a GitHub repository from the command line?
+98. What is the difference between Git and SVN?
+99. How do you configure Git to use an SSH key?
+100. How do you force push to a Git repository?
+101. How do you view the commit history for a file in a Git repository on GitHub?
+102. What is the difference between forking and cloning a GitHub repository?
+103. How do you sync a forked GitHub repository with the original repository?
+104. How do you create a branch from a specific commit in Git?
+105. What is Git cherry-pick and how does it work?
+106. How do you resolve merge conflicts in Git?
+107. How do you delete a branch in a Git repository on GitHub?
+108. How do you delete a tag in a Git repository on GitHub?
+109. What is a GitHub workflow and how does it work?
+110. How do you create a GitHub Actions workflow?
+111. How do you trigger a GitHub Actions workflow manually?
+112. What is the difference between a GitHub Actions runner and a GitHub-hosted runner?
+113. How do you add a GitHub Actions secret?
+114. How do you use a GitHub Actions workflow to deploy to a server?
+115. How do you debug a GitHub Actions workflow?
+116. What is a GitHub Pages site and how do you create one?
+117. How do you use a custom domain with a GitHub Pages site?
+118. How do you configure HTTPS for a GitHub Pages site?
+119. What is a GitHub App and how does it work?
+120. How do you create a GitHub App?
+121. How do you authenticate with a GitHub App?
+122. What is a GitHub webhook and how does it work?
+123. How do you create a GitHub webhook?
+124. How do you test a GitHub webhook?
+125. What is a GitHub token and how does it work?
+126. How do you create a personal access token on GitHub?
+127. How do you use a personal access token to authenticate with the GitHub API?
+128. What is a GitHub gist and how does it work?
+129. How do you create a GitHub gist?
+130. How do you embed a GitHub gist on a website or blog?
+131. What is a GitHub organization and how does it work?
+132. How do you create a GitHub organization?
+133. How do you transfer a repository to a GitHub organization?
+134. How do you delete a GitHub organization?
+135. How do you set up a GitHub repository for collaboration with others?
+136. How do you assign issues to other users in a GitHub repository?
+137. How do you add labels to issues in a GitHub repository?
+138. How do you close an issue in a GitHub repository?
+139. How do you lock an issue in a GitHub repository?
+140. How do you create a GitHub repository template?
+150. How do you revert a commit?
+151. What is a Git submodule?
+152. How do you add a submodule to your Git repository?
+153. How do you remove a submodule from your Git repository?
+154. What is Git rebase and how is it different from Git merge?
+155. How do you resolve a merge conflict in Git?
+156. What is a Git stash and how do you use it?
+157. What is Git cherry-pick and how do you use it?
+158. What is a Git hook and how do you use it?
+159. How do you create and apply a patch in Git?
+160. How do you use Git tags?
+161. How do you rename a Git branch?
+162. How do you delete a Git branch?
+163. What is the difference between Git pull and Git fetch?
+164. How do you update a forked repository?
+165. How do you merge a pull request on GitHub?
+166. What is the GitHub API and how do you use it?
+167. How do you add a collaborator to a GitHub repository?
+168. How do you remove a collaborator from a GitHub repository?
+169. What is a GitHub gist and how do you use it?
+170. How do you create a GitHub Pages site?
+171. What is a GitHub webhook and how do you use it?
+172. How do you configure a GitHub webhook?
+173. How do you use GitHub Actions?
+174. How do you configure a GitHub Action?
+175. What is GitHub CLI and how do you use it?
+176. How do you create a GitHub repository from the command line?
+177. How do you clone a GitHub repository to your local machine?
+178. How do you push changes to a GitHub repository?
+179. How do you pull changes from a GitHub repository?
+180. How do you view the commit history of a Git repository on GitHub?
+181. What is a GitHub release and how do you create one?
+182. How do you create and use GitHub templates?
+183. How do you create a GitHub organization?
+184. How do you add members to a GitHub organization?
+185. How do you create a GitHub team?
+186. How do you add members to a GitHub team?
+187. How do you use GitHub Discussions?
+188. How do you use GitHub Projects?
+189. How do you use GitHub Security?
+190. How do you use GitHub Insights?
+191. How do you use GitHub Codespaces?
+192. How do you use GitHub Sponsors?
+193. How do you use GitHub Marketplace?
+194. How do you use GitHub Education?
+195. How do you use GitHub Pages with a custom domain?
+196. How do you enable HTTPS for a GitHub Pages site?
+197. What is GitHub Universe?
+198. What is GitHub Satellite?
+199. What is Hacktoberfest and how do you participate?
+200. How do you find open source projects on GitHub to contribute to?
+201. What is a GitHub webhook?
+202. How do you configure a webhook in GitHub?
+203. How can you trigger a build in Jenkins when a GitHub pull request is opened?
+204. What is the purpose of a GitHub gist?
+205. How can you create a GitHub gist?
+206. How can you embed a GitHub gist on a web page?
+207. What is a GitHub Pages site?
+208. How can you create a GitHub Pages site?
+209. How can you customize the URL of a GitHub Pages site?
+210. How can you redirect a custom domain to a GitHub Pages site?
+211. What is a GitHub API token?
+212. How can you create a GitHub API token?
+213. What is the purpose of a GitHub App?
+214. How can you create a GitHub App?
+215. How can you install a GitHub App?
+216. How can you authenticate with the GitHub API using a GitHub App?
+217. What is a GitHub App installation?
+218. How can you get a list of GitHub App installations?
+219. How can you get information about a specific GitHub App installation?
+220. How can you uninstall a GitHub App installation?
+221. What is the purpose of the GitHub GraphQL API?
+222. How can you authenticate with the GitHub GraphQL API?
+223. How can you query the GitHub GraphQL API?
+224. How can you use variables in a GitHub GraphQL API query?
+225. How can you use fragments in a GitHub GraphQL API query?
+226. What is the purpose of a GitHub repository template?
+227. How can you create a GitHub repository template?
+228. How can you use a GitHub repository template to create a new repository?
+229. What is a GitHub package registry?
+230. How can you publish a package to a GitHub package registry?
+231. How can you install a package from a GitHub package registry?
+232. What is a GitHub code review?
+233. How can you create a GitHub code review?
+234. How can you request changes in a GitHub code review?
+235. How can you approve changes in a GitHub code review?
+236. What is a GitHub code review comment?
+237. How can you create a GitHub code review comment?
+238. How can you resolve a GitHub code review comment?
+239. What is a GitHub pull request review?
+240. How can you request a pull request review in GitHub?
+241. How can you leave a pull request review in GitHub?
+242. What is a GitHub pull request review comment?
+243. How can you leave a pull request review comment in GitHub?
+244. What is a GitHub pull request review request?
+245. How can you request a pull request review in GitHub?
+246. How can you remove a pull request review request in GitHub?
+247. What is a GitHub pull request merge?
+248. How can you merge a pull request in GitHub?
+249. How can you automatically merge a pull request in GitHub?
+250. What is a GitHub code owner?
+251. How can you configure a CODEOWNERS file in GitHub?
+252. What is a GitHub code of conduct?
+253. How can you add a code of conduct to a GitHub repository?
+254. What is a GitHub security vulnerability alert?
+255. How can you enable security vulnerability alerts for a GitHub repository?
+256. What is a GitHub security policy?
+257. How can you add a security policy to a GitHub repository?
+258. What is a GitHub secret?
+259. How can you add a secret to a GitHub repository?
+260. How can you use a secret in a GitHub Actions workflow?
+261. What is a GitHub Actions artifact?
+262. How can you create a GitHub Actions artifact?
+263. How can you download a GitHub Actions artifact?
+264. What is a GitHub Marketplace?
+265. How can you delete a repository from GitHub?
+
+266. What is a pull request in GitHub?
+
+267. Can you merge a pull request from the command line?
+
+268. How can you revert a commit in Git?
+
+269. What is a fork in GitHub?
+
+270. Can you change the name of a GitHub repository?
+
+271. How can you check the status of a Git repository?
+
+272. What is a release in GitHub?
+
+273. Can you add an existing Git repository to GitHub?
+
+274. How can you view the commit history of a repository in GitHub?
+
+275. What is a GitHub Gist?
+
+276. How can you create a new branch in Git?
+
+277. Can you delete a branch in GitHub?
+
+278. What is a GitHub webhook?
+
+279. Can you clone a repository from GitHub using SSH?
+
+280. How can you add collaborators to a GitHub repository?
+
+281. What is a GitHub Pages?
+
+282. Can you create a new repository in GitHub using the command line?
+
+283. How can you undo the last commit in Git?
+
+284. What is a GitHub issue?
+
+285. Can you search for code on GitHub?
+
+286. How can you change the commit message in Git?
+
+287. What is a GitHub organization?
+
+288. Can you create a repository in GitHub without using the web interface?
+
+289. How can you create a new file in a GitHub repository?
+
+290. What is a GitHub API?
+
+291. Can you merge two Git branches using a pull request?
+
+292. How can you view the commit details of a repository in GitHub?
+
+293. What is a GitHub workflow?
+
+294. Can you use Git to manage a project that has multiple contributors?
+
+295. How can you clone a specific branch in Git?
+
+296. What is a GitHub project?
+
+297. Can you push a Git repository to multiple remotes?
+
+298. How can you view the changes made in a specific commit in Git?
+
+299. What is a GitHub secret?
+
+300. Can you rename a branch in GitHub?
+
+301. How can you configure Git to use a proxy?
+
+302. What is a GitHub repository template?
+
+303. Can you see who made a specific change in a GitHub repository?
+
+304. How can you create a GitHub repository using the GitHub API?
+
+305. What is a GitHub app?
+
+306. Can you update a GitHub repository using Git?
+
+307. How can you revert a merge in Git?
+
+308. What is a GitHub pull request template?
+
+309. Can you use Git to manage a project that has multiple branches?
+
+310. How can you check if a Git repository has uncommitted changes?
+
+311. What is a GitHub webhook payload?
+
+312. Can you view the commit details of a specific file in a GitHub repository?
+
+313. How can you create a new tag in Git?
+
+314. What is a GitHub issue template?
+
+315. Can you compare two branches in GitHub?
+
+316. How can you see the changes made in a specific file in a GitHub pull request?
+
+317. What is a GitHub marketplace?
+
+318. Can you configure Git to use a specific SSH key?
+
+319. How can you view the commit history of a specific file in Git?
+
+320. What is a GitHub repository topic?
+
+321. Can you set up a custom domain for a GitHub Pages site?
+
+322. How can you resolve a Git merge conflict?
+
+323. What is a GitHub code review?
+
+324. Can you see the code changes made in a specific commit in GitHub?
+
+325. How can you update a forked GitHub repository?
+
+326. What is a GitHub repository badge?
+
+327. Can you create a GitHub repository using a template?
+
+328. How can you view the changes made to a specific line of code in a GitHub repository?
+
+1. How can you delete a branch in Git?
+2. How do you resolve merge conflicts in Git?
+3. What is Git cherry-pick?
+4. What is Git rebase and how is it different from merging?
+5. How do you undo the last commit in Git?
+6. What is a Git stash and how do you use it?
+7. What is a Git submodule and how do you use it?
+8. What is a Git tag and how do you create one?
+9. How do you revert a commit in Git?
+10. What is Git bisect and how do you use it?
+11. How do you set up a remote repository in Git?
+12. What is Git blame and how do you use it?
+13. How do you rename a local and remote branch in Git?
+14. What is Git reflog and how do you use it?
+15. How do you remove a file from a Git repository?
+16. What is the difference between Git fetch and Git pull?
+17. How do you configure Git to use an SSH key?
+18. How do you resolve a detached head in Git?
+19. What is Git fork and how do you use it?
+20. How do you configure Git to use a proxy server?
+21. What is a Git hook and how do you use it?
+22. How do you configure Git to ignore certain files and directories?
+23. How do you configure Git to use a different text editor?
+24. How do you set up a Git workflow for a team?
+25. How do you create and apply Git patches?
+26. How do you configure Git to use a different diff tool?
+27. How do you use Git to manage large binary files?
+28. What is the difference between Git and GitHub?
+29. How do you use Git to manage project branches?
+30. What is Git merge and how do you use it?
+31. How do you use Git to revert a merge?
+32. How do you use Git to move a commit from one branch to another?
+33. How do you use Git to cherry-pick a range of commits?
+34. How do you use Git to create a branch from a specific commit?
+35. How do you use Git to delete a remote branch?
+36. How do you use Git to move a file from one directory to another?
+37. How do you use Git to compare two branches?
+38. How do you use Git to find the commit that introduced a bug?
+39. How do you use Git to clone a repository?
+40. How do you use Git to push changes to a remote repository?
+41. How do you use Git to merge changes from one branch to another?
+42. How do you use Git to create a pull request?
+43. How do you use Git to squash multiple commits into one?
+44. How do you use Git to view the commit history of a repository?
+45. How do you use Git to search for commits that introduced a specific change?
+46. How do you use Git to rebase a branch?
+47. How do you use Git to revert a merge commit?
+48. How do you use Git to delete a tag?
+49. How do you use Git to rename a tag?
+50. How do you use Git to view the changes made in a specific commit?

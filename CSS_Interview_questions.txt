@@ -1,0 +1,1019 @@
+1. What is CSS?
+2. What are the benefits of using CSS?
+3. What is the difference between inline, internal, and external CSS?
+4. How do you link an external stylesheet to an HTML page?
+5. What is the syntax for writing CSS rules?
+6. What is a CSS selector?
+7. What is specificity in CSS?
+8. How do you override a CSS rule?
+9. What are pseudo-classes and pseudo-elements in CSS?
+10. What is the difference between a class and an ID in CSS?
+11. How do you apply multiple classes to an HTML element?
+12. What is the difference between margin and padding in CSS?
+13. What is the box model in CSS?
+14. How do you add a border to an HTML element in CSS?
+15. What is the difference between display:none and visibility:hidden in CSS?
+16. How do you center an HTML element horizontally and vertically in CSS?
+17. What is the difference between position:absolute and position:relative in CSS?
+18. What is the z-index property in CSS?
+19. What is the difference between em and rem units in CSS?
+20. What is the difference between absolute and relative units in CSS?
+21. What is a CSS sprite?
+22. How do you add a background image to an HTML element in CSS?
+23. What is a gradient in CSS?
+24. How do you create a linear gradient in CSS?
+25. What is a radial gradient in CSS?
+26. What is the difference between a fixed and a fluid layout in CSS?
+27. What is the float property in CSS?
+28. What is the clear property in CSS?
+29. What is the overflow property in CSS?
+30. What is the text-overflow property in CSS?
+31. What is the word-wrap property in CSS?
+32. What is the difference between a relative and an absolute URL in CSS?
+33. How do you create a hyperlink in CSS?
+34. What is the :hover pseudo-class in CSS?
+35. What is the :active pseudo-class in CSS?
+36. What is the :visited pseudo-class in CSS?
+37. What is the :focus pseudo-class in CSS?
+38. What is the ::before pseudo-element in CSS?
+39. What is the ::after pseudo-element in CSS?
+40. What is the difference between the ::before and ::after pseudo-elements in CSS?
+41. What is the content property in CSS?
+42. What is the difference between the ::before and :before selectors in CSS?
+43. What is the difference between the ::after and :after selectors in CSS?
+44. What is the transform property in CSS?
+45. What is the transition property in CSS?
+46. What is the animation property in CSS?
+47. What is the @keyframes rule in CSS?
+48. What is a media query in CSS?
+49. What is the difference between max-width and min-width in CSS media queries?
+50. What is a viewport in CSS?
+51. What is the @import rule in CSS?
+52. What is the @media rule in CSS?
+53. What is the @font-face rule in CSS?
+54. What is the font-size property in CSS?
+55. What is the line-height property in CSS?
+56. What is the font-weight property in CSS?
+57. What is the font-style property in CSS?
+58. What is the font-family property in CSS?
+59. What is the text-align property in CSS?
+60. What is the text-decoration property in CSS?
+61. What is the text-transform property in CSS?
+62. What is the white-space property in CSS?
+63. What is the letter-spacing property in CSS?
+64. What is the box-sizing property in CSS?
+
+65. What is the flexbox layout in CSS?
+
+66. What is the grid layout in CSS?
+
+67. What is the difference between the flexbox and grid layout in CSS?
+
+68. How do you create a responsive design in CSS?
+
+69. What is the difference between responsive and adaptive design in CSS?
+
+70. What is the @supports rule in CSS?
+
+71. What is the difference between rem and vw units in CSS?
+
+72. What is the difference between rem and px units in CSS?
+
+73. What is the difference between max-height and height in CSS?
+
+74. What is the difference between max-width and width in CSS?
+
+75. What is the difference between min-height and height in CSS?
+
+76. What is the difference between min-width and width in CSS?
+
+77. What is the difference between relative and absolute positioning in CSS?
+
+78. What is the difference between display:block and display:inline in CSS?
+
+79. What is the difference between display:none and display:block in CSS?
+
+80. What is the difference between position:static and position:relative in CSS?
+
+81. What is the difference between padding and margin in CSS?
+
+82. What is the difference between a margin collapse and a padding collapse in CSS?
+
+83. What is the difference between a block element and an inline element in CSS?
+
+84. What is the difference between a div and a span element in HTML and CSS?
+
+85. What is the difference between a pseudo-class and a pseudo-element in CSS?
+
+86. What is the difference between an SVG and a PNG image?
+
+87. What is the difference between a JPEG and a PNG image?
+
+88. What is the difference between a GIF and a PNG image?
+
+89. What is the difference between a responsive and a fluid design in CSS?
+
+90. What is the difference between a web font and a system font in CSS?
+
+91. What is the difference between a monospace and a sans-serif font in CSS?
+
+92. What is the difference between a serif and a sans-serif font in CSS?
+
+93. What is the difference between a bold and a regular font in CSS?
+
+94. What is the difference between a font-size and a line-height in CSS?
+
+95. What is the difference between a hover and a click event in CSS?
+
+96. What is the difference between a hover and a focus event in CSS?
+
+97. What is the difference between a before and an after element in CSS?
+
+98. What is the difference between a class and an ID selector in CSS?
+
+99. What is the difference between a static and a fixed position in CSS?
+
+100. What is the difference between a transform and a transition in CSS?
+
+101. What is the difference between a flex container and a flex item in CSS?
+
+102. What is the CSS specificity hierarchy?
+
+103. What is the difference between the nth-child and nth-of-type selectors in CSS?
+
+104. What is the difference between the :first-child and :first-of-type selectors in CSS?
+
+105. What is the difference between the :last-child and :last-of-type selectors in CSS?
+
+106. What is the difference between the :nth-last-child and :nth-last-of-type selectors in CSS?
+
+107. What is the difference between the float and clear properties in CSS?
+
+108. What is the difference between a fixed and a sticky position in CSS?
+
+109. What is the difference between the visibility and display properties in CSS?
+
+110. What is the difference between the overflow and clip properties in CSS?
+
+111. What is the difference between the border-box and content-box values for the box-sizing property in CSS?
+
+112. What is the difference between the position and z-index properties in CSS?
+
+113. What is the difference between the flex-basis and width properties in CSS?
+
+114. What is the difference between the flex-grow and flex-shrink properties in CSS?
+
+115. What is the difference between the justify-content and align-items properties in CSS?
+
+116. What is the difference between the flex-direction and flex-wrap properties in CSS?
+
+117. What is the difference between the background-color and background-image properties in CSS?
+
+118. What is the difference between the background-position and background-size properties in CSS?
+
+119. What is the difference between the transition and animation properties in CSS?
+
+120. What is the difference between the RGBA and HSLA color formats in CSS?
+
+121. What is the difference between a CSS reset and a CSS normalize?
+
+122. What is the difference between a layout and a grid system in CSS?
+
+123. What is the difference between an inline-block and a block element in CSS?
+
+124. What is the difference between a web-safe font and a non-web-safe font in CSS?
+
+125. What is the difference between a SVG and a Canvas element in HTML and CSS?
+
+126. What is the difference between a responsive and an adaptive image in CSS?
+
+127. What is the difference between a pseudo-element and a pseudo-class in CSS?
+
+128. What is the difference between the border and outline properties in CSS?
+
+129. What is the difference between the flex-flow and flex-wrap properties in CSS?
+
+130. What is the difference between a rem unit and an em unit in CSS?
+
+131. What is the difference between a position:absolute and position:fixed in CSS?
+
+132. What is the difference between a font-weight and a font-style in CSS?
+
+133. What is the difference between the background-repeat and background-attachment properties in CSS?
+
+134. What is the difference between the :checked and :selected pseudo-classes in CSS?
+
+135. What is the difference between the :disabled and :enabled pseudo-classes in CSS?
+
+136. What is the difference between the :empty and :only-child pseudo-classes in CSS?
+
+137. What is the difference between the overflow:auto and overflow:hidden properties in CSS?
+
+138. What is the difference between a container and a wrapper element in CSS?
+
+139. What is the difference between the text-align and text-justify properties in CSS?
+
+140. What is the difference between a transition and a transform property in CSS?
+
+141. What is the difference between a responsive and a fluid grid in CSS?
+
+142. What is the difference between the grid-template-rows and grid-template-columns properties in CSS?
+
+143. What is the difference between the justify-self and align-self properties in CSS?
+
+144. What is the difference between a display:flex and a display:inline-flex
+
+145. What is the difference between the max-width and min-width properties in CSS?
+
+146. What is the difference between the max-height and min-height properties in CSS?
+
+147. What is the difference between the transition and animation properties in CSS?
+
+148. What is the difference between the visibility and display properties in CSS?
+
+149. What is the difference between the clip and overflow properties in CSS?
+
+150. What is the difference between the position and z-index properties in CSS?
+
+151. What is the difference between the :before and :after pseudo-elements in CSS?
+
+152. What is the difference between the grid-gap and grid-row-gap properties in CSS?
+
+153. What is the difference between the transform and translate properties in CSS?
+
+154. What is the difference between a single-page application and a multi-page application?
+
+155. What is the difference between a responsive and a mobile-first design in CSS?
+
+156. What is the difference between a BEM and a SMACSS architecture in CSS?
+
+157. What is the difference between a class and an ID selector in CSS?
+
+158. What is the difference between a pseudo-class and a pseudo-element in CSS?
+
+159. What is the difference between the :hover and :focus pseudo-classes in CSS?
+
+160. What is the difference between the :nth-child and :nth-of-type selectors in CSS?
+
+161. What is the difference between the :first-child and :first-of-type selectors in CSS?
+
+162. What is the difference between the :last-child and :last-of-type selectors in CSS?
+
+163. What is the difference between the ::before and ::after pseudo-elements in CSS?
+
+164. What is the difference between the flex-basis and flex-shrink properties in CSS?
+
+165. What is the difference between the float and clear properties in CSS?
+
+166. What is the difference between the display: block and display: inline-block properties in CSS?
+
+167. What is the difference between the line-height and letter-spacing properties in CSS?
+
+168. What is the difference between the margin and padding properties in CSS?
+
+169. What is the difference between the flex-direction and flex-wrap properties in CSS?
+
+170. What is the difference between the justify-content and align-items properties in CSS?
+
+171. What is the difference between a fixed and a sticky position in CSS?
+
+172. What is the difference between a responsive and an adaptive design in CSS?
+
+173. What is the difference between the background-color and background-image properties in CSS?
+
+174. What is the difference between the background-size and background-repeat properties in CSS?
+
+175. What is the difference between the transition-duration and transition-delay properties in CSS?
+
+176. What is the difference between the linear-gradient and radial-gradient functions in CSS?
+
+177. What is the difference between the background-clip and background-origin properties in CSS?
+
+178. What is the difference between the font-size and line-height properties in CSS?
+
+179. What is the difference between the nth-child and nth-last-child selectors in CSS?
+
+180. What is the difference between the grid-template-rows and grid-template-columns properties in CSS?
+
+181. What is the difference between the justify-self and align-self properties in CSS?
+
+182. What is the difference between the visibility and opacity properties in CSS?
+
+183. What is the difference between the list-style-type and list-style-image properties in CSS?
+
+184. What is the difference between the object-fit and object-position properties in CSS?
+
+185. What is the difference between the position and transform properties in CSS?
+
+186. What is the difference between the filter and backdrop-filter properties in CSS?
+
+187. What is the difference between the text-overflow and white-space properties in CSS?
+
+188. What is the difference between the text-shadow and box-shadow properties in CSS?
+
+189. What is the difference between the font-weight and font-style properties in CSS?
+
+190. What is the difference between the transform-origin and transform-style properties in CSS?
+
+191. What is the difference between the filter and mix-blend-mode properties in CSS?
+
+192. What is the difference between the position and clip properties in CSS?
+
+193. What is the difference between the background-blend-mode and mix-blend-mode properties in CSS?
+
+194. What is the difference between the text-align and vertical-align properties in CSS?
+
+195. What is the difference between the flex-grow and flex-shrink properties in CSS?
+
+196. What is the difference between the grid-auto-rows and grid-auto-columns properties in CSS?
+
+197. What is the difference between the line-height and font-size properties in CSS?
+
+198. What is the difference between the grid-row and grid-column properties in CSS?
+
+199. What is the difference between the content and overflow properties in CSS?
+
+200. What is the difference between the min-content, max-content, and fit-content values in CSS?
+
+201. What is the difference between the overflow-x and overflow-y properties in CSS?
+
+202. What is the difference between the visibility and opacity properties in CSS?
+
+203. What is the difference between the clip and overflow properties in CSS?
+
+204. What is the difference between the flex-wrap and flex-flow properties in CSS?
+
+205. What is the difference between the perspective and perspective-origin properties in CSS?
+
+206. What is the difference between the display and visibility properties in CSS?
+
+207. What is the difference between the text-indent and text-align properties in CSS?
+
+208. What is the difference between the box-sizing and content-box properties in CSS?
+
+209. What is the difference between the :first-letter and :first-line pseudo-elements in CSS?
+
+210. What is the difference between the max-height and height properties in CSS?
+
+211. What is the difference between the min-width and width properties in CSS?
+
+212. What is the difference between the white-space and word-wrap properties in CSS?
+
+213. What is the difference between the line-height and vertical-align properties in CSS?
+
+214. What is the difference between the transition-timing-function and animation-timing-function properties in CSS?
+
+215. What is the difference between the display: none and visibility: hidden properties in CSS?
+
+216. What is the difference between the font-size and font-weight properties in CSS?
+
+217. What is the difference between the margin and border properties in CSS?
+
+218. What is the difference between the justify-content and align-content properties in CSS?
+
+219. What is the difference between the gap and grid-gap properties in CSS?
+
+220. What is the difference between the font-size and font-family properties in CSS?
+
+221. What is the difference between the border-radius and box-shadow properties in CSS?
+
+222. What is the difference between the outline and border properties in CSS?
+
+223. What is the difference between the grid-template-rows and grid-auto-rows properties in CSS?
+
+224. What is the difference between the box-sizing and padding-box properties in CSS?
+
+225. What is the difference between the width and max-width properties in CSS?
+
+226. What is the difference between the background-size and background-position properties in CSS?
+
+227. What is the difference between the word-break and hyphens properties in CSS?
+
+228. What is the difference between the clip-path and mask-image properties in CSS?
+
+229. What is the difference between the filter and contrast properties in CSS?
+
+230. What is the difference between the text-transform and letter-spacing properties in CSS?
+
+231. What is the difference between the font-size and font-style properties in CSS?
+
+232. What is the difference between the display and position properties in CSS?
+
+233. What is the difference between the overflow and visibility properties in CSS?
+
+234. What is the difference between the margin and padding properties in CSS?
+
+235. What is the difference between the :hover and :focus pseudo-classes in CSS?
+
+236. What is the difference between the float and clear properties in CSS?
+
+237. What is the difference between the box-sizing and margin-box properties in CSS?
+
+238. What is the difference between the grid-row-gap and grid-column-gap properties in CSS?
+
+239. What is the difference between the clip-path and shape-outside properties in CSS?
+
+240. What is the difference between the opacity and color properties in CSS?
+
+241. What is the difference between the max-width and min-width properties in CSS?
+
+242. What is the difference between the align-content and justify-items properties in CSS?
+
+243. What is the difference between the transform and transition properties in CSS?
+
+244. What is the difference between the box-shadow and outline properties in CSS?
+
+245. What is the difference between the text-decoration and text-transform properties in CSS?
+
+246. What is the difference between the background-color and background-image properties in CSS?
+
+247. What is the difference between the position and z-index properties in CSS?
+
+248. What is the difference between the opacity and visibility properties in CSS?
+
+249. What is the difference between the line-height and letter-spacing properties in CSS?
+
+250. What is the difference between the max-height and min-height properties in CSS?
+
+251. What is the difference between the flex-basis and flex-shrink properties in CSS?
+
+252. What is the difference between the display and visibility properties in CSS?
+
+253. What is the difference between the text-align and text-justify properties in CSS?
+
+254. What is the difference between the display and float properties in CSS?
+
+255. What is the difference between the position and top properties in CSS?
+
+256. What is the difference between the height and line-height properties in CSS?
+
+257. What is the difference between the display: inline and display: inline-block properties in CSS?
+
+258. What is the difference between the transform and animation properties in CSS?
+
+259. What is the difference between the width and max-width properties in CSS?
+
+260. What is the difference between the margin and padding properties in CSS?
+
+261. What is the difference between the grid-auto-flow and grid-template-rows properties in CSS?
+
+262. What is the difference between the justify-content and justify-items properties in CSS?
+
+263. What is the difference between the z-index and position properties in CSS?
+
+264. What is the difference between the width and min-width properties in CSS?
+
+265. What is the difference between the flex-basis and flex-grow properties in CSS?
+
+266. What is the difference between the display and visibility properties in CSS?
+
+267. What is the difference between the float and position properties in CSS?
+
+268. What is the difference between the text-align and text-indent properties in CSS?
+
+269. What is the difference between the overflow and clip properties in CSS?
+
+270. What is the difference between the grid-column-start and grid-column-end properties in CSS?
+
+271. What is the difference between the flex-grow and flex-shrink properties in CSS?
+
+272. What is the difference between the margin and outline properties in CSS?
+
+273. What is the difference between the line-height and font-weight properties in CSS?
+
+274. What is the difference between the background-clip and background-origin properties in CSS?
+
+275. What is the difference between the max-height and height properties in CSS?
+
+276. What is the difference between the position and transform properties in CSS?
+
+277. What is the difference between margin and padding in CSS?
+278. How do you vertically center an element in CSS?
+279. What is the box model in CSS?
+280. What is the difference between display: none and visibility: hidden in CSS?
+281. How do you add rounded corners to an element in CSS?
+282. What is a CSS sprite?
+283. What is the difference between inline, inline-block, and block display styles in CSS?
+284. How do you apply a CSS style to only the first letter of an element?
+285. What is the difference between the :before and :after pseudo-elements in CSS?
+286. How do you disable text selection in CSS?
+287. How do you create a sticky footer in CSS?
+288. What is the difference between a relative and absolute position in CSS?
+289. How do you create a triangle using CSS?
+290. What is the difference between a pseudo-class and a pseudo-element in CSS?
+291. How do you create a responsive layout in CSS?
+292. How do you create a hover effect in CSS?
+293. What is the difference between the ID and class selectors in CSS?
+294. How do you center an element horizontally in CSS?
+295. How do you add an outline to an element in CSS?
+296. What is the difference between a div and a span element in HTML?
+297. How do you use the flexbox layout in CSS?
+298. How do you create a modal popup in CSS?
+299. What is the difference between the em and rem units in CSS?
+300. How do you create a gradient background in CSS?
+301. What is the difference between a static and fixed position in CSS?
+302. How do you create a drop-down menu in CSS?
+303. How do you create a slideshow in CSS?
+304. What is the difference between the :first-child and :first-of-type selectors in CSS?
+305. How do you create a tooltip in CSS?
+306. What is the difference between the visibility and opacity properties in CSS?
+307. How do you create an image gallery in CSS?
+308. How do you use media queries in CSS?
+309. What is the difference between a relative and absolute font size in CSS?
+310. How do you create a progress bar in CSS?
+311. What is the difference between the border-box and content-box box-sizing in CSS?
+312. How do you create a parallax effect in CSS?
+313. What is the difference between a section and article element in HTML?
+314. How do you create a responsive navigation bar in CSS?
+315. How do you use CSS to style the form elements?
+316. What is the difference between a transition and an animation in CSS?
+317. How do you create a hamburger menu in CSS?
+318. What is the difference between the child and descendant selectors in CSS?
+319. How do you use the grid layout in CSS?
+320. How do you create a card layout in CSS?
+321. What is the difference between the font-weight and font-style properties in CSS?
+322. How do you create a toggle switch in CSS?
+323. How do you use CSS to create a responsive table?
+324. What is the difference between the z-index and position properties in CSS?
+325. How do you create a tabbed interface in CSS?
+326. What is the difference between the translate and transform properties in CSS?
+327. How do you use the background-size property in CSS?
+328. How do you create a flyout menu in CSS?
+329. What is the difference between the :nth-child and :nth-of-type selectors in CSS?
+330. How do you create a smooth scrolling effect in CSS?
+331. What is the difference between the :nth-child() and :nth-of-type() selectors in CSS?
+
+332. What is the difference between margin and padding in CSS?
+
+333. How do you create a responsive grid layout in CSS?
+
+334. What is the box model in CSS?
+
+335. How do you center an element horizontally in CSS?
+
+336. What is the difference between inline, block and inline-block elements in CSS?
+
+337. What is a pseudo-element in CSS?
+
+338. How do you create a hover effect in CSS?
+
+339. What is the difference between the display: none and visibility: hidden properties in CSS?
+
+340. How do you align text vertically in CSS?
+
+341. What is the difference between the em and rem units in CSS?
+
+342. How do you create a sticky header in CSS?
+
+343. What is the difference between a class and an ID in CSS?
+
+344. How do you create a dropdown menu in CSS?
+
+345. What is the difference between the float and clear properties in CSS?
+
+346. How do you create a responsive image in CSS?
+
+347. What is the difference between the overflow and overflow-x/overflow-y properties in CSS?
+
+348. How do you create a responsive video in CSS?
+
+349. What is the difference between the :first-child and :first-of-type selectors in CSS?
+
+350. How do you create a circular image in CSS?
+
+351. What is the difference between the :before and :after pseudo-elements in CSS?
+
+352. How do you create a responsive background image in CSS?
+
+353. What is the difference between the position: absolute and position: relative properties in CSS?
+
+354. How do you create a responsive table in CSS?
+
+355. What is the difference between the :last-child and :last-of-type selectors in CSS?
+
+356. How do you create a horizontal scrolling effect in CSS?
+
+357. What is the difference between the :nth-last-child() and :nth-last-of-type() selectors in CSS?
+
+358. How do you create a tooltip in CSS?
+
+359. What is the difference between the background and background-color properties in CSS?
+
+360. How do you create a responsive navbar in CSS?
+
+361. What is the difference between the :empty and :blank selectors in CSS?
+
+362. How do you create a responsive slider in CSS?
+
+363. What is the difference between the text-align and vertical-align properties in CSS?
+
+364. How do you create a responsive form in CSS?
+
+365. What is the difference between the :checked and :selected selectors in CSS?
+
+366. How do you create a responsive accordion in CSS?
+
+367. What is the difference between the position: fixed and position: sticky properties in CSS?
+
+368. How do you create a responsive card in CSS?
+
+369. What is the difference between the :only-child and :only-of-type selectors in CSS?
+
+370. How do you create a responsive modal in CSS?
+
+371. What is the difference between the z-index and opacity properties in CSS?
+
+372. How do you create a responsive timeline in CSS?
+
+373. What is the difference between the text-decoration and text-shadow properties in CSS?
+
+374. How do you create a responsive calendar in CSS?
+
+375. What is the difference between the max-height and min-height properties in CSS?
+
+376. How do you create a responsive map in CSS?
+
+377. What is the difference between the font-weight and font-style properties in CSS?
+
+378. How do you create a responsive countdown timer in CSS?
+
+379. What is the difference between the border and outline properties in CSS?
+
+380. How do you create a responsive gallery in CSS?
+
+381. What is the difference between the margin and border properties in CSS?
+
+382. What are CSS frameworks? Name some popular CSS frameworks.
+
+383. What is the box-sizing property in CSS?
+
+384. What is the difference between the inline-block and inline CSS display properties?
+
+385. How do you center an element horizontally and vertically in CSS?
+
+386. How do you make an element invisible in CSS?
+
+387. What is the difference between visibility: hidden and display: none in CSS?
+
+388. What are CSS variables? How are they used?
+
+389. How do you create a responsive layout in CSS?
+
+390. What is the purpose of a media query in CSS?
+
+391. What is the difference between max-width and min-width in CSS media queries?
+
+392. How do you add a background image to a webpage in CSS?
+
+393. What is the difference between the background and background-color CSS properties?
+
+394. How do you add a hover effect to an element in CSS?
+
+395. What is the difference between a pseudo-class and a pseudo-element in CSS?
+
+396. How do you use the ::before and ::after pseudo-elements in CSS?
+
+397. How do you create a gradient background in CSS?
+
+398. What is the difference between a linear gradient and a radial gradient in CSS?
+
+399. What is the z-index property in CSS?
+
+400. What is the difference between absolute and relative positioning in CSS?
+
+401. How do you create a sticky header in CSS?
+
+402. What is a CSS sprite?
+
+403. How do you animate an element in CSS?
+
+404. What is the @font-face rule in CSS?
+
+405. What is the difference between the margin and padding properties in CSS?
+
+406. How do you create a responsive navigation bar in CSS?
+
+407. How do you create a responsive image in CSS?
+
+408. What is the difference between the :first-child and :first-of-type pseudo-classes in CSS?
+
+409. How do you create a tooltip in CSS?
+
+410. What is the difference between a serif and sans-serif font?
+
+411. What is the font-size property in CSS?
+
+412. What is the line-height property in CSS?
+
+413. How do you change the color of text in CSS?
+
+414. What is the difference between font-weight and font-style in CSS?
+
+415. What is the difference between the em and rem units in CSS?
+
+416. How do you make text bold in CSS?
+
+417. How do you create a drop cap in CSS?
+
+418. How do you create a responsive table in CSS?
+
+419. What is the difference between the border and outline properties in CSS?
+
+420. How do you create a border radius in CSS?
+
+421. What is the box-shadow property in CSS?
+
+422. How do you create a gradient border in CSS?
+
+423. What is the difference between the ::before and ::after pseudo-elements in CSS?
+
+424. How do you use the transform property in CSS?
+
+425. What is the difference between the translate and rotate transform functions in CSS?
+
+426. How do you use the scale transform function in CSS?
+
+427. How do you use the skew transform function in CSS?
+
+428. What is the difference between the transition and animation properties in CSS?
+
+429. How do you use the transition property in CSS?
+
+430. How do you use the animation property in CSS?
+
+431. What is the difference between a transition and animation in CSS?
+
+432. What is the difference between the linear and ease-in-out timing functions in CSS?
+
+433. How do you use the @keyframes rule in CSS?
+
+434. What is the difference between a class and an ID in CSS?
+
+435. How do you select multiple elements in CSS?
+
+436. What is the :nth-child selector in CSS?
+437. What is the box-sizing property in CSS? 
+438. What is the difference between padding and margin in CSS? 
+439. How do you center an element horizontally and vertically in CSS? 
+440. What is the difference between display: inline and display: inline-block in CSS? 
+441. What is a CSS selector? 
+442. What is the difference between a class and an ID in CSS? 
+443. How do you specify multiple CSS classes for an element? 
+444. What is a CSS sprite and how is it used? 
+445. How do you create a hover effect in CSS? 
+446. What is the difference between a relative and absolute URL? 
+447. How do you create a responsive design in CSS? 
+448. What is the float property in CSS? 
+449. What is the clear property in CSS? 
+450. How do you create a fixed header or footer in CSS? 
+451. What is the difference between display: none and visibility: hidden in CSS? 
+452. How do you specify a background image in CSS? 
+453. How do you specify the font family in CSS? 
+454. What is the difference between em and rem units in CSS? 
+455. How do you create a CSS animation? 
+456. What is the difference between the transform and transition properties in CSS? 
+457. How do you create a parallax effect in CSS? 
+458. What is the difference between the :nth-child and :nth-of-type selectors in CSS? 
+459. How do you create a tooltip in CSS? 
+460. What is the difference between a pseudo-class and a pseudo-element in CSS? 
+461. What is the difference between the :hover and :active pseudo-classes in CSS? 
+462. How do you create a dropdown menu in CSS? 
+463. How do you create a modal popup in CSS? 
+464. How do you create a full-screen background image in CSS? 
+465. What is the difference between the border and outline properties in CSS? 
+466. How do you create a sticky element in CSS? 
+467. How do you create a responsive navigation menu in CSS? 
+468. What is the difference between the flex and grid layout systems in CSS? 
+469. How do you create a grid layout in CSS? 
+470. How do you create a column layout in CSS? 
+471. What is the difference between a fluid and fixed layout in CSS? 
+472. How do you create a CSS grid gallery? 
+473. How do you create a progress bar in CSS? 
+474. How do you create a slider in CSS? 
+475. What is the difference between the before and after pseudo-elements in CSS? 
+476. How do you create a custom checkbox in CSS? 
+477. How do you create a custom radio button in CSS? 
+478. How do you create a custom select box in CSS? 
+479. What is the difference between the overflow and overflow-x/overflow-y properties in CSS? 
+480. How do you create a responsive video in CSS? 
+481. How do you create a responsive image gallery in CSS? 
+482. What is the difference between the visibility and opacity properties in CSS? 
+483. How do you create a responsive table in CSS? 
+484. How do you create a responsive form in CSS? 
+485. What is the difference between the word-wrap and white-space properties in CSS? 
+486. How do you create a responsive menu in CSS? 
+487. How do you create a responsive footer in CSS? 
+488. What is the difference between the text-align and vertical-align properties in CSS?
+489. What is the difference between the "em" and "rem" units in CSS?
+
+490. What is a CSS reset and why is it used?
+
+491. What is the difference between the "display" and "visibility" CSS properties?
+
+492. How do you center an element horizontally in CSS?
+
+493. What is the "box-sizing" CSS property used for?
+
+494. How do you create a gradient background in CSS?
+
+495. What is the "float" CSS property used for?
+
+496. How do you make a CSS3 animation loop?
+
+497. What is the difference between a class selector and an ID selector in CSS?
+
+498. How do you create a responsive design in CSS?
+
+499. What is the difference between "inline" and "block" elements in CSS?
+
+500. How do you make a div clickable in CSS?
+
+501. What is the difference between the "position" and "display" CSS properties?
+
+502. What is the difference between "padding" and "margin" in CSS?
+
+503. How do you create a sticky header in CSS?
+
+504. What is the difference between a "pseudo-class" and a "pseudo-element" in CSS?
+
+505. How do you create a responsive image gallery in CSS?
+
+506. What is the difference between the "nth-child" and "nth-of-type" selectors in CSS?
+
+507. How do you make text bold in CSS?
+
+508. What is the "z-index" CSS property used for?
+
+509. How do you create a dropdown menu in CSS?
+
+510. What is the "line-height" CSS property used for?
+
+511. What is the difference between a "flexbox" and a "grid" layout in CSS?
+
+512. How do you create a tooltip in CSS?
+
+513. What is the difference between the "max-width" and "min-width" CSS properties?
+
+514. How do you make an element transparent in CSS?
+
+515. What is the difference between the "transform" and "transition" CSS properties?
+
+516. How do you create a responsive navigation bar in CSS?
+
+517. What is the "text-shadow" CSS property used for?
+
+518. What is the "font-weight" CSS property used for?
+
+519. How do you create a responsive table in CSS?
+
+520. What is the difference between "box-shadow" and "text-shadow" in CSS?
+
+521. How do you create a responsive video in CSS?
+
+522. What is the difference between the "max-height" and "min-height" CSS properties?
+
+523. How do you create a horizontal scrolling effect in CSS?
+
+524. What is the difference between the "clip-path" and "mask" CSS properties?
+
+525. How do you make an element unselectable in CSS?
+
+526. What is the "background-clip" CSS property used for?
+
+527. How do you create a responsive form in CSS?
+
+528. What is the difference between the "background-color" and "background-image" CSS properties?
+
+529. How do you make a CSS3 animation pause?
+
+530. What is the difference between the "flex-basis" and "width" CSS properties in a flexbox layout?
+
+531. How do you create a modal box in CSS?
+
+532. What is the difference between the "background-position" and "background-size" CSS properties?
+
+533. How do you make an element draggable in CSS?
+
+534. What is the difference between the "display: none" and "visibility: hidden" CSS properties?
+
+535. How do you create a responsive carousel in CSS?
+
+536. What is the difference between the "opacity" and "visibility" CSS properties?
+
+537. What is the box model in CSS?
+538. What is the difference between padding and margin?
+539. How can you center a block-level element in CSS?
+540. How do you create a responsive design in CSS?
+541. What is the difference between position absolute and position relative?
+542. How do you clear floats in CSS?
+543. How do you select all even or odd elements in CSS?
+544. What is the difference between display: none and visibility: hidden?
+545. How can you change the default color of a link in CSS?
+546. What is a CSS sprite?
+547. How do you use the :before and :after pseudo-elements in CSS?
+548. What is the CSS float property used for?
+549. How can you make an element span multiple columns in CSS?
+550. How do you change the background color of a selected text with CSS?
+551. What is the purpose of the z-index property in CSS?
+552. How do you set the font size in CSS?
+553. How can you create a triangle shape in CSS?
+554. What is the difference between a class and an ID in CSS?
+555. How do you add a CSS stylesheet to an HTML page?
+556. How can you make text bold in CSS?
+557. What is the CSS opacity property used for?
+558. How do you make text wrap around an image in CSS?
+559. What is the difference between a relative and absolute URL in CSS?
+560. How can you add a border to an element in CSS?
+561. How do you create a gradient background in CSS?
+562. What is the purpose of the CSS overflow property?
+563. How do you create a fixed header in CSS?
+564. How can you create a responsive navigation menu in CSS?
+565. What is the difference between inline and block-level elements in CSS?
+566. How do you create a sticky footer in CSS?
+567. How can you hide an element in CSS without using display:none or visibility:hidden?
+568. What is the difference between a div and a span in CSS?
+569. How do you make an element fade in on page load using CSS?
+570. What is the purpose of the CSS calc() function?
+571. How do you create a modal dialog box in CSS?
+572. How can you make a link open in a new window using CSS?
+573. What is the difference between the :nth-child() and :nth-of-type() selectors in CSS?
+574. How do you vertically align text in CSS?
+575. What is the purpose of the CSS max-width property?
+576. How can you make an element sticky using CSS?
+577. What is the difference between a font-weight of bold and a font-weight of 700 in CSS?
+578. How do you create a full-screen background image in CSS?
+579. What is the CSS clip property used for?
+580. How can you add a shadow to an element in CSS?
+581. What is the difference between the em and rem units in CSS?
+582. How do you create a slideshow in CSS?
+583. How can you change the color of an SVG image using CSS?
+584. What is the purpose of the CSS flexbox layout?
+585. How do you make an element responsive using CSS?
+586. How can you add a video to an HTML page using CSS?
+587. What is the difference between the CSS position values of static and relative?
+588. How do you create a hamburger menu in CSS?
+589. What is the difference between the CSS padding and margin properties?
+590. How can you create a progress bar in CSS?
+591. What is the purpose of the CSS transform property?
+592. What is the CSS Box Model? 
+593. What are the dimensions of the content area in the CSS Box Model? 
+594. What are the dimensions of the padding area in the CSS Box Model? 
+595. What are the dimensions of the border area in the CSS Box Model? 
+596. What are the dimensions of the margin area in the CSS Box Model? 
+597. How do you add padding to an element in CSS? 
+598. How do you add a border to an element in CSS? 
+599. How do you add margin to an element in CSS? 
+600. How do you center an element horizontally in CSS? 
+601. How do you center an element vertically in CSS? 
+602. How do you center an element both horizontally and vertically in CSS? 
+603. How do you create a background image in CSS? 
+604. How do you set the height of an element in CSS? 
+605. How do you set the width of an element in CSS? 
+606. How do you set the height and width of an element in CSS? 
+607. How do you set the font size in CSS? 
+608. How do you change the font family in CSS? 
+609. How do you change the font color in CSS? 
+610. How do you add a hover effect in CSS? 
+611. How do you create a dropdown menu in CSS? 
+612. What is a media query in CSS? 
+613. How do you create a responsive design in CSS? 
+614. What is a CSS preprocessor? 
+615. What are some popular CSS preprocessors? 
+616. What is a CSS framework? 
+617. What are some popular CSS frameworks? 
+618. What is CSS specificity? 
+619. How do you calculate CSS specificity? 
+620. What is the !important keyword in CSS? 
+621. When should you use the !important keyword in CSS? 
+622. What is a CSS reset? 
+623. What is a CSS normalize? 
+624. What is the difference between a CSS reset and a CSS normalize? 
+625. How do you create a gradient background in CSS? 
+626. How do you create a shadow effect in CSS? 
+627. What is the CSS float property? 
+628. What is the CSS clear property? 
+629. What is the CSS display property? 
+630. What is the CSS position property? 
+631. What is the difference between absolute and relative positioning in CSS? 
+632. What is the CSS z-index property? 
+633. What is the CSS overflow property? 
+634. What is the CSS visibility property? 
+635. What is the CSS opacity property? 
+636. How do you create a responsive image in CSS? 
+637. How do you create a responsive video in CSS? 
+638. How do you create a responsive table in CSS? 
+639. What is a CSS sprite? 
+640. How do you create a CSS sprite? 
+641. What is the CSS clip property? 
+642. What is the CSS filter property? 
+643. How do you create a sticky header in CSS? 
+644. How do you create a parallax effect in CSS? 
+645. What is the CSS animation property? 
+646. How do you create a CSS animation? 
+647. What is the CSS transition property? 
+648. How do you create a CSS transition? 
+649. What is the CSS transform property? 
+650. How do you create a CSS transform? 
+651. What is the CSS perspective property? 
+652. How do you create a CSS perspective? 
+653. What is the CSS grid
