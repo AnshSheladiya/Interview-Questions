@@ -1,0 +1,250 @@
+1. What is ReactJS?
+2. Explain the key features of React.
+3. What is JSX in React?
+4. How does React differ from other JavaScript frameworks?
+5. What is a virtual DOM in React?
+6. Explain the component-based architecture in React.
+7. Describe the state in React.
+8. What is the purpose of props in React?
+9. Differentiate between state and props.
+10. Explain the component lifecycle in React.
+11. What are controlled components in React?
+12. What is the significance of keys in React?
+13. How does event handling work in React?
+14. What is the significance of refs in React?
+15. Explain the concept of lifting state up in React.
+16. What is the role of render() in React?
+17. Differentiate between class components and functional components.
+18. What are higher-order components (HOCs) in React?
+19. Explain the use of the spread operator in React.
+20. What is the purpose of the PureComponent in React?
+21. How does React Router work?
+22. What is Redux, and how does it work with React?
+23. Explain the Flux architecture.
+24. What is the role of actions and reducers in Redux?
+25. How do you connect React to a RESTful API?
+26. Describe the purpose of the Context API in React.
+27. What are hooks in React?
+28. Explain the useState hook.
+29. What is the useEffect hook used for?
+30. Differentiate between class and functional components in terms of hooks.
+31. Explain the useContext hook.
+32. Describe the useReducer hook.
+33. What is the useMemo hook used for?
+34. Explain the useRef hook.
+35. What is React.memo()?
+36. How does error handling work in React?
+37. Explain code splitting in React.
+38. What is lazy loading in React?
+39. Describe forward refs in React.
+40. How can you optimize performance in React applications?
+41. Explain the concept of virtualization in React.
+42. What is the significance of React Fragments?
+43. Describe the use of portals in React.
+44. How does server-side rendering (SSR) work in React?
+45. What is the purpose of the React Developer Tools browser extension?
+46. Explain the significance of the "key" prop in lists.
+47. How can you prevent the default behavior of an event in React?
+48. What is the purpose of the children prop in React components?
+49. Explain the concept of controlled and uncontrolled components.
+50. How do you handle forms in React?
+51. What are the different lifecycle methods in a class component?
+52. Describe the process of conditional rendering in React.
+53. How can you style components in React?
+54. Explain the concept of PureComponent.
+55. What is the role of the shouldComponentUpdate method?
+56. Describe the purpose of the componentDidUpdate lifecycle method.
+57. How do you pass data between components in React?
+58. What is the purpose of the dangerouslySetInnerHTML attribute?
+59. Explain the use of the key prop in React lists.
+60. What is the purpose of the window.confirm() method in React?
+61. Describe the concept of synthetic events in React.
+62. What is the purpose of the React.createElement() function?
+63. Explain the significance of the alt attribute in the img tag.
+64. How can you handle errors in React?
+65. What is the purpose of the forceUpdate method in React?
+66. Describe the useCallback hook in React.
+67. How does the React PureComponent differ from the Component class?
+68. What is the significance of the React.Fragment element?
+69. Explain the purpose of the aria-* attributes in React.
+70. How do you perform server-side rendering with React?
+71. What is the purpose of the React.cloneElement() method?
+72. Describe the use of the React.PropTypes library.
+73. How can you integrate third-party libraries with React?
+74. What is the purpose of the shouldComponentUpdate method?
+75. Explain the role of the displayName property in React components.
+76. How do you prevent a component from rendering in React?
+77. What is the purpose of the React.PropTypes library?
+78. How can you optimize the performance of a React application?
+79. Explain the use of the React.Fragment component.
+80. Describe the significance of the "dangerouslySetInnerHTML" prop.
+81. How do you handle authentication in a React application?
+82. What is the purpose of the React Router "Link" component?
+83. Explain the concept of context in React.
+84. How do you handle errors in React?
+85. Describe the purpose of the React.memo() function.
+86. What is the role of the "useEffect" hook in React?
+87. Explain the purpose of the "useReducer" hook.
+88. How do you handle forms in React?
+89. Describe the significance of the "key" prop in React lists.
+90. What is the purpose of the "ref" attribute in React?
+91. Explain the role of the "shouldComponentUpdate" method in React.
+92. How can you update the state in a React component?
+93. Describe the significance of the "className" attribute in React.
+94. What is the purpose of the "dangerouslySetInnerHTML" prop?
+95. Explain the role of the "useState" hook in React.
+96. How can you optimize the performance of a React application?
+97. Describe the significance of the "key" prop in React lists.
+98. What is the purpose of the "ref" attribute in React?
+99. Explain the role of the "shouldComponentUpdate" method in React.
+100. How can you update the state in a React component?
+101. How does React handle security vulnerabilities like XSS attacks?
+102. Explain the significance of the `key` prop in the context of list performance.
+103. What is the purpose of the `React.createContext()` function?
+104. Describe the concept of hooks rules in React.
+105. How does error boundaries work in React?
+106. Explain the difference between `localStorage` and `sessionStorage` in React.
+107. What is the significance of the `dangerouslySetInnerHTML` prop in React?
+108. How can you implement code splitting in React?
+109. Describe the significance of the `React.StrictMode` component.
+110. What is the purpose of the `React.lazy()` function?
+111. How does React handle accessibility (a11y)?
+112. Explain the use of the `aria-*` attributes in React.
+113. What is the role of the `React.Children` utility functions?
+114. Describe the purpose of the `React.PureComponent` class.
+115. How can you prevent a component from rendering in React?
+116. What is the significance of the `React.memo()` function?
+117. Explain the differences between shallow rendering and full rendering in testing React components.
+118. How does React Router handle 404 errors?
+119. Describe the use of the `useImperativeHandle` hook.
+120. What is the purpose of the `React.Fragment` element?
+121. How can you force a re-render of a React component?
+122. Explain the concept of error boundaries in React.
+123. What is the significance of the `React.cloneElement()` method?
+124. How can you handle AJAX requests in React?
+125. Describe the role of the `React.createRef()` method.
+126. What is the significance of the `React.forwardRef()` function?
+127. Explain the use of the `React.Suspense` component.
+128. How do you implement prop drilling in React?
+129. Describe the use of the `React.memo()` function.
+130. What are hooks and why were they introduced in React?
+131. Explain the significance of the `useCallback` hook.
+132. What is the purpose of the `useMemo` hook in React?
+133. How does the `useEffect` hook differ from the `componentDidMount` lifecycle method?
+134. Describe the use of the `useReducer` hook.
+135. What is the significance of the `useContext` hook?
+136. Explain the purpose of the `useLayoutEffect` hook.
+137. How can you optimize performance in a React application?
+138. Describe the role of the `React Test Renderer` package.
+139. What is the purpose of the `React.createPortal()` method?
+140. How can you handle forms in React without using state?
+141. Explain the use of the `React.Fragment` shorthand syntax (`<>...</>`) in JSX.
+142. What is the significance of the `React.memo()` function in the context of performance optimization?
+143. Describe the purpose of the `React.createRef()` method.
+144. How do you conditionally apply styles in React?
+145. What is the purpose of the `onError` callback in the `React.lazy()` function?
+146. Explain the concept of synthetic events in React.
+147. How does React handle routing in a single-page application (SPA)?
+148. Describe the use of the `React.memo()` function.
+149. What is the significance of the `React.useDebugValue()` hook?
+150. Explain the purpose of the `React.unstable_createResource()` function.
+151. How can you optimize the rendering of large lists in React?
+152. Describe the role of the `React.createRef()` method.
+153. What is the significance of the `React.memo()` function in the context of performance optimization?
+154. Explain the concept of synthetic events in React.
+155. How does React handle routing in a single-page application (SPA)?
+156. Describe the use of the `React.memo()` function.
+157. What is the significance of the `React.useDebugValue()` hook?
+158. Explain the purpose of the `React.unstable_createResource()` function.
+159. How can you optimize the rendering of large lists in React?
+160. Describe the role of the `React.createRef()` method.
+161. What is the significance of the `React.memo()` function in the context of performance optimization?
+162. Explain the concept of synthetic events in React.
+163. How does React handle routing in a single-page application (SPA)?
+164. Describe the use of the `React.memo()` function.
+165. What is the significance of the `React.useDebugValue()` hook?
+166. Explain the purpose of the `React.unstable_createResource()` function.
+167. How can you optimize the rendering of large lists in React?
+168. Describe the role of the `React.createRef()` method.
+169. What is the significance of the `React.memo()` function in the context of performance optimization?
+170. Explain the concept of synthetic events in React.
+171. How does React handle routing in a single-page application (SPA)?
+172. Describe the use of the `React.memo()` function.
+173. What is the significance of the `React.useDebugValue()` hook?
+174. Explain the purpose of the `React.unstable_createResource()` function.
+175. How can you optimize the rendering of large lists in React?
+176. Describe the role of the `React.createRef()` method.
+177. What is the significance of the `React.memo()` function in the context of performance optimization?
+178. Explain the concept of synthetic events in React.
+179. How does React handle routing in a single-page application (SPA)?
+180. Describe the use of the `React.memo()` function.
+181. How does the React DevTools extension help in debugging React applications?
+182. What is the purpose of the `React.useState()` hook?
+183. Explain the significance of the `React.useEffect()` hook in functional components.
+184. How can you handle state management in React without using Redux?
+185. Describe the purpose of the `React.memo()` function.
+186. What is the role of the `React.createContext()` API?
+187. How does React handle browser events?
+188. Explain the concept of portals in React.
+189. What is the significance of the `key` attribute when rendering lists in React?
+190. Describe the use of the `React.forwardRef()` function.
+191. How can you implement server-side rendering (SSR) in a React application?
+192. What are the differences between shallow rendering and mount rendering in testing React components?
+193. Explain the purpose of the `React.Fragment` element in JSX.
+194. What is the significance of the `dangerouslySetInnerHTML` prop in React?
+195. How does React handle code splitting?
+196. Describe the purpose of the `React.lazy()` function.
+197. What is the role of the `React.Suspense` component?
+198. Explain how to handle forms in React with controlled components.
+199. What is the purpose of the `React.cloneElement()` method?
+200. How do you implement prop drilling in React?
+201. Describe the significance of the `React.createRef()` method.
+202. How does React handle accessibility (a11y)?
+203. What is the role of the `React.Children` utility functions?
+204. Explain the purpose of the `React.PureComponent` class.
+205. How can you prevent a component from rendering in React?
+206. Describe the use of the `React.memo()` function.
+207. What are the advantages of using React hooks?
+208. How does React handle routing in a single-page application (SPA)?
+209. What is the purpose of the `React.useReducer()` hook?
+210. Explain the concept of the Context API in React.
+211. How can you optimize performance in a React application?
+212. Describe the role of the `React Test Renderer` package.
+213. What is the purpose of the `React.createPortal()` method?
+214. How does React handle 404 errors in a routing context?
+215. Describe the use of the `useImperativeHandle` hook.
+216. What is the purpose of the `React.memo()` function?
+217. Explain the differences between `componentWillUnmount` and `useEffect` cleanup in functional components.
+218. How can you handle AJAX requests in a React application?
+219. Describe the significance of the `React.StrictMode` component.
+220. What is the purpose of the `React.forwardRef()` function?
+221. How do you handle errors in a React application?
+222. Explain the concept of error boundaries in React.
+223. What is the role of the `onError` callback in the `React.lazy()` function?
+224. How can you force a re-render of a React component?
+225. Describe the purpose of the `React.useDebugValue()` hook.
+226. What is the significance of the `React.unstable_createResource()` function?
+227. How does React handle server-side rendering (SSR)?
+228. Explain the use of the `React.useLayoutEffect()` hook.
+229. What is the purpose of the `React.useCallback()` hook?
+230. Describe the significance of the `React.useMemo()` hook.
+231. How do you handle forms in React using uncontrolled components?
+232. What is the significance of the `React.Fragment` shorthand syntax (`<>...</>`) in JSX?
+233. How can you implement deep linking in a React application?
+234. Explain the use of the `React.useContext()` hook.
+235. What is the purpose of the `React.createContext()` API?
+236. Describe the role of the `React.createRef()` method.
+237. How can you handle global state management in React without using Redux?
+238. What is the significance of the `React.lazy()` function?
+239. Explain the differences between `useEffect` and `useLayoutEffect`.
+240. How does React handle security vulnerabilities like Cross-Site Scripting (XSS)?
+241. Describe the use of the `React.memo()` function.
+242. What is the purpose of the `React.useState()` hook?
+243. Explain the significance of the `React.useEffect()` hook in functional components.
+244. How can you handle state management in React without using Redux?
+245. Describe the purpose of the `React.memo()` function.
+246. What is the role of the `React.createContext()` API?
+247. How does React handle browser events?
+248. Explain the concept of portals in React.
+249. What is the significance of the `key` attribute when rendering lists in React?
+250. Describe the use of the `React.forwardRef()` function.
